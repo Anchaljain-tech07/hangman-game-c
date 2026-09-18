@@ -1,0 +1,6 @@
+# Compiled binaries
+*.exe
+*.o
+*.obj
+a.out
+hangman
